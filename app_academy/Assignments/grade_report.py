@@ -5,4 +5,13 @@
 # Flag any individual subject mark below 40 as ‘needs intervention’
 # Display a formatted report card showing all inputs, the average, the grade, the status, and any intervention flags
 
-name = input("")
+students = []
+
+def add_students():
+    name = input("Enter name of the student: ")
+    name = input("Enter name of the student: ")
+    name = input("Enter name of the student: ")
+    name = input("Enter name of the student: ")
+    name = input("Enter name of the student: ")
+
+    
