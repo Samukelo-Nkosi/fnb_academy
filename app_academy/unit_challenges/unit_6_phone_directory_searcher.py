@@ -12,7 +12,7 @@ contacts = {
 }
 
 name = input("Enter the name of the friend you want to look up: ")
-print("--------------------------------------------------------------")
+print("----------------------------------------------------------")
 
 if name in contacts:
     print(f"Found. {name}'s number is {contacts[name]}")
