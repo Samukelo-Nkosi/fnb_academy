@@ -11,7 +11,6 @@
 ![FNB App Academy](https://img.shields.io/badge/FNB-App%20Academy-0057B8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
 ![GitHub Top Language](https://img.shields.io/github/languages/top/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
 ![GitHub Contributors](https://img.shields.io/github/contributors/Samukelo-Nkosi/fnb_academy?style=for-the-badge)
 
@@ -97,9 +96,7 @@ Throughout the academy, I gained practical experience in:
 ### Development Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Frameworks
@@ -204,9 +201,7 @@ code .
 > GitHub automatically updates these badges.
 
 ![Top Language](https://img.shields.io/github/languages/top/Samukelo-Nkosi/fnb_academy)
-
 ![Repo Size](https://img.shields.io/github/repo-size/Samukelo-Nkosi/fnb_academy)
-
 ![Last Commit](https://img.shields.io/github/last-commit/Samukelo-Nkosi/fnb_academy)
 
 ---
