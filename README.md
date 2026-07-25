@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 FNB App Academy Portfolio
+# 🚀 FNB App Academy 2026
 
 ### _Learning • Building • Growing as a Software Developer_
 
