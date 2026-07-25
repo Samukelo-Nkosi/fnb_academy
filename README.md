@@ -146,7 +146,7 @@ fnb_academy/
 
 ## Introduction to Python
 
-![Python Project](images/python-project.png)
+![Python Project](images/intro-python.png)
 
 ---
 
