@@ -137,6 +137,7 @@ fnb_academy/
 │   ├── banner.png
 │   └── python-project.png
 │
+└── LICENSE.md
 └── README.md
 ```
 
